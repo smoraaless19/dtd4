@@ -9,7 +9,7 @@
 Este ejercicio consiste en corregir y validar un documento XML que utiliza una DTD interna.  
 El XML representa una biblioteca con una lista de libros, cada uno con título, autor y año.
 
-## 🛠 Tecnologías
+##  Tecnologías
 - XML 1.0
 - DTD interna
 - Editor: Visual Studio Code
